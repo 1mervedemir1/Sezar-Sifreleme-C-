@@ -1,0 +1,10 @@
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\bin\Debug\Sezar_sifreleme.exe.config
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\bin\Debug\Sezar_sifreleme.exe
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\bin\Debug\Sezar_sifreleme.pdb
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.Form1.resources
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.Properties.Resources.resources
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.csproj.GenerateResource.cache
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.csproj.CoreCompileInputs.cache
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.exe
+c:\users\merve demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.pdb
+C:\Users\Merve Demir\source\repos\Sezar_sifreleme\Sezar_sifreleme\obj\Debug\Sezar_sifreleme.csproj.AssemblyReference.cache
